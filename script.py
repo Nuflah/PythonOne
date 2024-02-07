@@ -1,2 +1,2 @@
-name = "Nuflah"
-print(name.upper())
+# this is day oneprice=
+price = 20
